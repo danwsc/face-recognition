@@ -9,3 +9,4 @@ This program is implemented from [Face recognition with OpenCV, Python, and deep
 * [imutils 0.5.3](https://pypi.org/project/imutils/)
 * [face_recognition 1.3.0](https://pypi.org/project/face-recognition/)
 * [dlib 19.19.0](https://pypi.org/project/dlib/)
+* OpenCV 3.4.0
